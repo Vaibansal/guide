@@ -27,7 +27,7 @@ title: Books to Read for Programmers
 - ISBN-13: 978-0321965516
 
 *Programming Pearls (2nd Edition) by Jon Bentley*
-- [Amazon Smile](https://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880)
+- [Amazon Smile](https://smile.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880)
 - ISBN-13: 978-0201657883
 
 *Structure and Interpretation of Computer Programs*
@@ -72,23 +72,19 @@ title: Books to Read for Programmers
 - [Amazon Smile](https://smile.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X)
 - ISBN-13: 978-0984782802
 
+*Programming Interviews Exposed: Secrets to Landing Your Next Job, 2nd Edition*
+- [Wiley](https://www.wiley.com/en-id/Programming+Interviews+Exposed:+Secrets+to+Landing+Your+Next+Job,+2nd+Edition-p-9780470121672)
+- ISBN: 978-0-470-12167-2
+
 ## Java
 
 *Head First Java* by Kathy Sierra and Bert Bates
 - [Amazon Smile](https://smile.amazon.com/Head-First-Java-Kathy-Sierra/dp/0596009208)
 - ISBN-13: 978-0596009205
 
-*Programming Pearls (2nd Edition)* by Jon Bentley
-- [Amazon Smile](https://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880)
-- ISBN-13: 978-0201657883
-
 *Effective Java by Joshua Bloch*
 - [Amazon Smile](https://smile.amazon.com/Effective-Java-3rd-Joshua-Bloch/dp/0134685997)
 - ISBN-13: 978-0134685991
-
-*Programming Pearls (2nd Edition) by Jon Bentley*
-- [Amazon Smile](https://smile.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880)
-- ISBN-13: 978-0201657883
 
 ## JavaScript
 
@@ -97,13 +93,17 @@ title: Books to Read for Programmers
 - ISBN-13: 9781491924464 
 
 *Eloquent JavaScript: A Modern Introduction to Programming by Marijn Haverbeke*
--[Read it online here](https://eloquentjavascript.net)
--[Amazon Smile](https://www.amazon.com/gp/product/1593275846/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1593275846&linkCode=as2&tag=marijhaver-20&linkId=VPXXXSRYC5COG5R5)
+- [Read it online here](https://eloquentjavascript.net)
+- [Amazon Smile](https://smile.amazon.com/gp/product/1593275846/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1593275846&linkCode=as2&tag=marijhaver-20&linkId=VPXXXSRYC5COG5R5)
 -ISBN-13: 978-1593275846
 
 *JavaScript: The Good Parts*
 - [Amazon Smile](https://smile.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742)
 - ISBN-13: 978-0596517748
+
+*JavaScript and JQuery: Interactive Front-End Web Development*
+- [Amazon Smile](https://smile.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647/?pldnSite=1)
+- ISBN-13: 978-1118531648 
 
 ## Python
 
@@ -112,7 +112,7 @@ title: Books to Read for Programmers
 - ISBN-13: 978-1593275990
 
 *Core Python Applications Programming (3rd Edition) by Wesley J Chun*
-- [Amazon Smile](https://www.amazon.com/Core-Python-Applications-Programming-3rd/dp/0132678209)
+- [Amazon Smile](https://smile.amazon.com/Core-Python-Applications-Programming-3rd/dp/0132678209)
 - ISBN-13: 978-0132678209
 
 ## Soft Skills
@@ -120,6 +120,12 @@ title: Books to Read for Programmers
 *Soft Skills: The software developer's life manual*
 - [Amazon Smile](https://smile.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397?pldnSite=1)
 - ISBN-13: 9781617292392 
+
+## Other
+
+*Hacking: Ultimate Hacking Guide: Hacking For Beginners And Tor Browser
+- https://www.amazon.in/dp/B075CX7T6G/ref=cm_sw_r_cp_awdb_t1_-7ESBbZ43CCBM
+- (ISBN 1976112524).
 
 *Code: The Hidden Language of Computer Hardware and Software (Developer Best Practices) *
 - [Amazon Smile](https://smile.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)
@@ -182,13 +188,22 @@ title: Books to Read for Programmers
 - ISBN-13: 978-1946556691
 
 *GATE 2019 Computer Science and Information Technology*
-- [Amazon Smile](https://www.amazon.com/GATE-Computer-Science-Information-Technology/dp/194658178X)
+- [Amazon Smile](https://smile.amazon.com/GATE-Computer-Science-Information-Technology/dp/194658178X)
 - ISBN-13: 978-1946581785
 
 *The Art of Computer Programming by Donald E. Knuth*
 - https://www-cs-faculty.stanford.edu/~knuth/taocp.html
 - ISBN-13: 978-0321751041
 
-This list was compiled from multiple suggestion threads on Reddit and Stackoverflow.
+*Facts and Fallacies of Software Engineering*
+- [Amazon Smile](https://smile.amazon.com/Facts-Fallacies-Software-Engineering-Robert/dp/0321117425/)
+- ISBN-13: 978-0321117427
+
+The Mythical Man-Month: Essays on Software Engineering
+- [Amazon Smile](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959)
+- ISBN-13: 978-0201835953
+
+
+This list was compiled from multiple suggestion threads on Reddit and Stackoverflow. 
 
 Please feel free to add more that you have found useful!
