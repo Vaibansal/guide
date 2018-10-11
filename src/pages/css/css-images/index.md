@@ -1,7 +1,7 @@
 ---
 title: CSS Images
 ---
-## CSS Images
+# CSS Images
 <p>This helps in adding an image to a website.</p>
 
 
@@ -15,22 +15,56 @@ title: CSS Images
 * **height:** This specifies a height for the image(can be percent or px or auto)</li>
 
 
-#### More Information:
-<!-- Please add any articles you think might be helpful to read before writing the article -->
+## Styling the image
+There are many type of styling can be made to the image such as image border, polaroid image, responsiveness of the image, implementing the filters, adding text on the image, etc.
 
-##### Properties
-<a title="The image-orientation CSS property describes how to correct the default orientation of an image." href="/en-US/docs/Web/CSS/image-orientation"><code>image-orientation</code></a>
-<a title="The image-rendering CSS property provides a hint to the browser about the algorithm it should use to scale images." href="/en-US/docs/Web/CSS/image-rendering"><code>image-rendering</code></a>
-<a title="The object-fit CSS property specifies how a replaced element, such as an <img> or <video>, should be resized to fit its container." href="/en-US/docs/Web/CSS/object-fit"><code>object-fit</code></a>
-<a title="The object-position CSS property determines the alignment of the selected element inside its box." href="/en-US/docs/Web/CSS/object-position"><code>object-position</code></a>
+#### Border Radius
+The border radus make the corner round.The radius of the corners need to be rounded in shape can be cahnged as per requirement.
+Mostly it's delt in term of percentahe(%) and pixel unit(px).
 
-##### Functions
-<a title="The documentation about this has not yet been written; please consider contributing!" href="/en-US/docs/Web/CSS/linear-gradient"><code>linear-gradient()</code></a>
-<a title="The documentation about this has not yet been written; please consider contributing!" href="/en-US/docs/Web/CSS/radial-gradient"><code>radial-gradient()</code></a>
-<a title="The documentation about this has not yet been written; please consider contributing!" href="/en-US/docs/Web/CSS/repeating-linear-gradient"><code>repeating-linear-gradient()</code></a>
-<a title="The documentation about this has not yet been written; please consider contributing!" href="/en-US/docs/Web/CSS/repeating-radial-gradient"><code>repeating-radial-gradient()</code></a>
-<a title="The documentation about this has not yet been written; please consider contributing!" href="/en-US/docs/Web/CSS/element"><code>element()</code></a>
+```css
+image_border{
+    border-radius: 8px;
+}
+```
 
-##### Datatypes
-<a title="The <image> CSS data type represents a 2D image. There are two kinds of images: plain images, typically referenced using a URL, and dynamically-generated images, like those generated with <gradient> or element(). Images can be used with numerous CSS properties, such as background-image, border-image, content, list-style-image, and cursor." href="/en-US/docs/Web/CSS/image"><code>&lt;image&gt;</code></a>
-<a title="The documentation about this has not yet been written; please consider contributing!" href="/en-US/docs/Web/CSS/uri"><code>&lt;uri&gt;</code></a>
+```css
+image_border{
+    border-radius: 50%;
+}
+```
+
+-Giving the border radius 50% makes the image to take shape of an ellipse( in cae of square shape image the image formed will be circular in nature)
+
+#### Polaroid Image
+Basically in polaroid image the image is placed on the white paper(or the required color) which have the caption related to that image.
+
+```css
+div.polaroid {
+    width: 70%;
+    background-color: #ffffff;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+img {width: 100%}
+
+div.container {
+    text-align: center;
+    padding: 10px 20px;
+}
+```
+
+#### Responsive Image
+Responsive image means that the iamge will changes its width and height as per the shape and size of the device.
+For samller devices the image should fit under the bounderies of the device.
+```css
+img {
+    max-width: 100%;
+    height: auto;
+}
+```
+-Note:The above code can help to size down the image but it will never make the image larger than its original size.
+
+For mor information and learning some new concepts refer:
+
+[CSS Styling Images](https://www.w3schools.com/css/css3_images.asp)
